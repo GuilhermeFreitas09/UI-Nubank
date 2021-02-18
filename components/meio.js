@@ -1,7 +1,7 @@
 import React from 'react'
 import { Text, View, StyleSheet, ScrollView, Image } from 'react-native'
 import { AntDesign, Ionicons, FontAwesome5 } from '@expo/vector-icons'
-import logo from 'C:/Users/Regis/meudeus/assets/rewards.png'
+import logo from './rewards.png'
 
 
 
